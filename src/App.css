@@ -1,0 +1,14 @@
+
+.App{
+  width:100%;
+  background-color: #f0f0f0;
+  padding:60px 10px;
+}
+.Content
+{
+  display:table;
+  max-width:900px;
+  margin:0 auto;
+  background-color:blanchedalmond;
+  padding:30px;
+}

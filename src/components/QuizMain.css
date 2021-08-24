@@ -1,0 +1,26 @@
+.NextStep{
+    background-color:green;
+    color:#fff;
+    padding:10px 30px;
+    border:0;
+    border-radius:3px;
+    cursor:pointer;
+}
+.NextStep:hover{
+    background-color:green;
+
+}
+.NextStep[disabled]{
+    display:none;
+}
+.finalPage h1{
+    text-align:center;
+    margin:15px 0;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight:bold;
+    color:green;
+    text-transform: none;
+    text-shadow:none;
+
+}
